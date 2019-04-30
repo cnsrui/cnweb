@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="cnweb">
-    <output-path>$PROJECT_DIR$/out/artifacts/cnweb</output-path>
-    <root id="archive" name="cnweb.war" />
-  </artifact>
-</component>
